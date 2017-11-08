@@ -1,0 +1,6 @@
+[01-Jun-2017 18:34:38 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/mydb1675/public_html/lapor_malang/admin_lapor/proses_login.php on line 6
+[01-Jun-2017 18:34:38 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/mydb1675/public_html/lapor_malang/admin_lapor/proses_login.php on line 7
+[11-Jun-2017 18:07:50 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/mydb1675/public_html/lapor_malang/admin_lapor/proses_login.php on line 6
+[11-Jun-2017 18:07:50 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/mydb1675/public_html/lapor_malang/admin_lapor/proses_login.php on line 7
+[15-Jun-2017 08:36:59 Asia/Jakarta] PHP Notice:  Undefined index: user in /home/mydb1675/public_html/lapor_malang/admin_lapor/proses_login.php on line 6
+[15-Jun-2017 08:36:59 Asia/Jakarta] PHP Notice:  Undefined index: password in /home/mydb1675/public_html/lapor_malang/admin_lapor/proses_login.php on line 7

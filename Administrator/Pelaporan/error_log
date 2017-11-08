@@ -1,0 +1,86 @@
+[17-May-2017 16:07:51 Asia/Jakarta] PHP Notice:  Undefined index: id_lapor in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 3
+[17-May-2017 16:07:51 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:07:51 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:07:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[17-May-2017 16:08:11 Asia/Jakarta] PHP Notice:  Undefined index: id_lapor in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 3
+[17-May-2017 16:08:11 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:08:11 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:08:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[17-May-2017 16:08:33 Asia/Jakarta] PHP Notice:  Undefined index: id_lapor in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 3
+[17-May-2017 16:08:33 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:08:33 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:08:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[17-May-2017 16:10:30 Asia/Jakarta] PHP Notice:  Undefined index: id_lapor in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 3
+[17-May-2017 16:10:30 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:10:30 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:10:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[17-May-2017 16:10:30 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[17-May-2017 16:12:34 Asia/Jakarta] PHP Notice:  Undefined index: id_lapor in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 3
+[17-May-2017 16:12:34 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:12:34 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:12:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[17-May-2017 16:12:34 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[17-May-2017 16:17:19 Asia/Jakarta] PHP Notice:  Undefined index: id_lapor in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 3
+[17-May-2017 16:17:19 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:17:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:17:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[17-May-2017 16:17:19 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[17-May-2017 16:18:06 Asia/Jakarta] PHP Notice:  Undefined index: id_lapor in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 3
+[17-May-2017 16:18:06 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:18:06 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:18:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[17-May-2017 16:18:06 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[17-May-2017 16:18:46 Asia/Jakarta] PHP Notice:  Undefined index: id_lapor in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 3
+[17-May-2017 16:18:46 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:18:46 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:18:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[17-May-2017 16:18:46 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[17-May-2017 16:22:58 Asia/Jakarta] PHP Notice:  Undefined index: id_lapor in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 3
+[17-May-2017 16:22:58 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:22:58 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[17-May-2017 16:22:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[17-May-2017 16:22:58 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[18-May-2017 10:23:36 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 10:23:36 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 10:23:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[18-May-2017 10:23:36 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[18-May-2017 10:24:12 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 10:24:12 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 10:24:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[18-May-2017 10:24:12 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[18-May-2017 10:25:16 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 10:25:16 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 10:25:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[18-May-2017 10:25:16 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[18-May-2017 10:37:47 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 10:37:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 10:37:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[18-May-2017 10:37:47 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[18-May-2017 10:38:12 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 10:38:12 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 10:38:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[18-May-2017 10:38:12 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[18-May-2017 10:42:38 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 10:42:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 10:42:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[18-May-2017 10:42:38 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[18-May-2017 13:55:54 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 13:55:54 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[18-May-2017 13:55:54 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[18-May-2017 13:55:54 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[19-May-2017 08:44:45 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[19-May-2017 08:44:45 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[19-May-2017 08:44:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[19-May-2017 08:44:45 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[19-May-2017 08:47:46 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[19-May-2017 08:47:46 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[19-May-2017 08:47:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 9
+[19-May-2017 08:47:46 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 25
+[19-May-2017 08:48:55 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[19-May-2017 08:48:55 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 7
+[19-May-2017 08:48:55 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 26
+[19-May-2017 08:50:09 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 11
+[19-May-2017 08:50:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 11
+[19-May-2017 08:50:09 Asia/Jakarta] PHP Notice:  Undefined variable: ambil_token in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 30
+[23-May-2017 08:39:04 Asia/Jakarta] PHP Notice:  Undefined variable: con in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 13
+[23-May-2017 08:39:04 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mydb1675/public_html/lapor_malang/admin_lapor/Administrator/Pelaporan/kirim_pesan.php on line 13
