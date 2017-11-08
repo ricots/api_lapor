@@ -1,8 +1,8 @@
 <?php 
 
 $host="localhost";
-$user="mydb1675";
-$pass="mydeveloper18";
+$user="";
+$pass="";
 $db="mydb1675_lapor_jalan";
 
 $koneksi = new mysqli($host,$user,$pass,$db);
